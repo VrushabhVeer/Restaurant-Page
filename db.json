@@ -1,0 +1,484 @@
+{
+    "products": [
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/xofljpukrkkbftsjospa",
+            "name": "Chaitanya Parathas",
+            "category": [
+                "North India, ",
+                "Punjabi, ",
+                "Chinese, ",
+                "Combo, ",
+                "Beverages"
+            ],
+            "rating": "4.5",
+            "deliveryTiming": "33 min",
+            "costForTwo": "150",
+            "offer": "40% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/o33xbe9g5w2x7jwrymv6",
+            "name": "MH 27 Pav Bhaji",
+            "category": [
+                "Snacks, ",
+                "Pavbhaji, ",
+                "Beverages, ",
+                "Steet Food, ",
+                "Chinese"
+            ],
+            "rating": "4.1",
+            "deliveryTiming": "25 min",
+            "costForTwo": "100",
+            "offer": "20% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/fto8afa1miaockbgyx8m",
+            "name": "Food On Call",
+            "category": [
+                "Snacks, ",
+                "Pizza, ",
+                "Beverages, ",
+                "Steet Food, ",
+                "Combo"
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "25 min",
+            "costForTwo": "360",
+            "offer": "12% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/nm3fc2rnynrehacjq84h",
+            "name": "Camp Biryani",
+            "category": [
+                "Snacks, ",
+                "Pizza, ",
+                "Beverages, ",
+                "Steet Food, ",
+                "Combo"
+            ],
+            "rating": "4.3",
+            "deliveryTiming": "25 min",
+            "costForTwo": "170",
+            "offer": "15% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/tvxbzlii4usczhbpqkmn",
+            "name": "Cafe Eatalious",
+            "category": [
+                "Snacks, ",
+                "Pizza, ",
+                "Beverages, ",
+                "Italian, ",
+                "Burger"
+            ],
+            "rating": "4.5",
+            "deliveryTiming": "25 min",
+            "costForTwo": "250",
+            "offer": "26% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lxde3hbkdq73frqspzbz",
+            "name": "Friends Adda",
+            "category": [
+                "Snacks, ",
+                "Pizza, ",
+                "Beverages, ",
+                "Steet Food, ",
+                "Combo"
+            ],
+            "rating": "4.1",
+            "deliveryTiming": "34 min",
+            "costForTwo": "300",
+            "offer": "20% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/jwlw1kxpaaqbdkq2ymzd",
+            "name": "Kanhaiya Kunj",
+            "category": [
+                "Sounth Indian, ",
+                "Pizza, ",
+                "Beverages, ",
+                "Family Restraurent, ",
+                "Combo"
+            ],
+            "rating": "3.9",
+            "deliveryTiming": "25 min",
+            "costForTwo": "180",
+            "offer": "30% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/fqetab0narzj4kggsrp1",
+            "name": "The Meal Box",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dfqgilkbtmottm9pbz9o",
+            "name": "Hotel Pankaj",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/xxpbfcqrymytxyijbw5u",
+            "name": "The Food Box",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dhl2rjql8gk0kwaespxs",
+            "name": "Dominos",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bagnqcsjtrowukwnlvyc",
+            "name": "Thai wai",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ho4dbwhqsutu0m1kcyjq",
+            "name": "The Tiffin",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dcvhkqodmhr6e0gnjq5j",
+            "name": "Ralish inn",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Accept cash",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/whxnt4zrcemoljndhbg8",
+            "name": "Frozen Bottle",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Not Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ao2yrf91f2bui6nzv8bp",
+            "name": "Food Food",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Not Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/o8kuyh2rpqigpegc9ozq",
+            "name": "Cafe Hot Shot",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Not Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/of0tuyspnvi3l8nom1ok",
+            "name": "Chaudhary Dhaba",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Accept"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/io8pfl8usmbermcb0nzs",
+            "name": "The Meal Box",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Not Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/gpyityef6pihn8fhjob9",
+            "name": "The Meal Box",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ogg0tfqlmkkqihaw5moi",
+            "name": "The Meal Box",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Not Accept",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/aeqjrlpzfabudubg120d",
+            "name": "The Meal Box",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/gn2qajmeazmfcyuycfxa",
+            "name": "The Meal Box",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Not Available",
+                "cash": "Available",
+                "upi": "Not Available"
+            }
+        },
+        {
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/rjxkbgcsacimzd5dswxi",
+            "name": "The Meal Box",
+            "category": [
+                "Indian, ",
+                "Continental, ",
+                "Beverages, ",
+                "Thali, ",
+                "Combo, "
+            ],
+            "rating": "4.0",
+            "deliveryTiming": "20 min",
+            "costForTwo": "600",
+            "offer": "28% off | Use TRYNEW",
+            "payment_methods": {
+                "card": "Available",
+                "cash": "Available",
+                "upi": "Available"
+            }
+        }
+    ]
+}
